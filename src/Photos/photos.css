@@ -1,0 +1,42 @@
+.filter{
+    display: flex;
+    width: 20%;
+}
+.images-cont{
+    display: flex;
+    margin-top: 30px;
+}
+
+.im{
+    margin: 10px;
+    margin-top: 30px;
+}
+
+ .bg-img {
+    height: 200px;
+    width: 200px;
+    max-width: 300px;
+    
+
+}
+
+.flex-row-container {
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.flex-row-container > .flex-row-item {
+    flex: 1 1 30%; /*grow | shrink | basis */
+    height: 300px;
+    margin: 5px;
+    margin-top: 50px;
+}
+h3{
+    margin: 0px;
+}
+
+.flex-row-item {
+  
+}

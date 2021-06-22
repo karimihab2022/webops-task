@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "id" : 0,
+            "name": "Wedding"
+        },
+        {
+            "id" : 1,
+            "name": "Party"
+        }
+    ],
+
+    "photos": [
+        {
+            "id" : 0,
+            "link": "directory of w",
+            "category_id": 0,
+            "src" : "https://www.w3schools.com/w3images/wedding.jpg"
+        },
+        {
+            "id" : 1,
+            "link": "directory of wedding image",
+            "category_id": 1,
+            "src" : "https://www.w3schools.com/w3images/wedding.jpg"
+        },
+        {
+            "id" : 2,
+            "link": "directory of wedding image",
+            "category_id": 1,
+            "src" : "https://www.w3schools.com/w3images/wedding.jpg"
+        }
+    ]
+}
